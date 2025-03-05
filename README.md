@@ -29,13 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-dg&show_icons=true&theme=radical&hide=issues&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-dg&theme=radical" width="49%">
-</p>
-
-### 🔥 **Most Used Languages** (Reflecting your C work)
+### 🔥 **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dg&langs_count=6&layout=compact&theme=radical&hide=html,css,Makefile" width="49%">
 </p>
