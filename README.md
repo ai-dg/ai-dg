@@ -1,6 +1,6 @@
 # Diego Agudelo  
 **AI & Backend Developer | Software Engineer in Training at 42 Paris**  
-Passionate about **C/C++**, **Python**, and **DevOps** (Docker, Linux, SQL)  
+Passionate about **C/C++**, **Python**, **Machine learning** and **DevOps** (Docker, Linux, SQL)  
 
 ---
 
