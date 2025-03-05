@@ -26,7 +26,6 @@
 
 ### ⚡ **Full-Stack & AI**
 - 🏗 **[ft_transcendence](https://github.com/ai-dg/ft_transcendence)** → Full-stack web app with WebSockets  
-- 🤖 **[AI Projects](https://github.com/ai-dg/AI-Projects)** → Machine Learning & Deep Learning implementations  
 
 ---
 
