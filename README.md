@@ -26,7 +26,7 @@
 - 🐚 **[Minishell](https://github.com/ai-dg/minishell)** → Unix shell in C with advanced features  
 
 ### 🌐 **Networking & Web Development**
-- 🌍 **[Webserv](https://github.com/ai-dg/webserv)** → HTTP server in C++  
+- 🌍 **[Webserv](https://github.com/ai-dg/webserv_)** → HTTP server in C++  
 - 🎮 **[so_long](https://github.com/ai-dg/so_long)** → 2D game using MiniLibX  
 - 🕹 **[cub3D](https://github.com/ai-dg/cub3d)** → 3D raycasting engine inspired by Wolfenstein  
 
@@ -38,15 +38,9 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-dg&show_icons=true&theme=radical&hide=issues&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-dg&theme=radical" width="49%">
-</p>
-
 ### 🔥 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dg&langs_count=6&layout=compact&theme=radical&hide=html,css,Makefile" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dg&langs_count=10&layout=compact&theme=radical" width="49%">
 </p>
 
 ---
