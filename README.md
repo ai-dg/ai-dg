@@ -15,19 +15,34 @@
 
 ## 📌 My Projects:
 ### 🔥 **Low-Level Programming & System**
-- 🐚 **[Minishell](https://github.com/ai-dg/minishell)** → Unix shell in C with advanced features  
-- 🔥 **[ft_printf](https://github.com/ai-dg/ft_printf)** → Custom implementation of `printf()`  
+- 📚 **[Libft](https://github.com/ai-dg/libft)** → Custom C standard library  
+- 🖨 **[ft_printf](https://github.com/ai-dg/ft_printf)** → Custom implementation of `printf()`  
+- 📄 **[get_next_line](https://github.com/ai-dg/get_next_line)** → Read a file line by line in C  
+- 🏗 **[push_swap](https://github.com/ai-dg/push_swap)** → Sorting algorithm with the fewest moves  
+- 🔀 **[pipex](https://github.com/ai-dg/pipex)** → Pipe and redirection handling in UNIX  
 - 🧵 **[Philosophers](https://github.com/ai-dg/philosophers)** → Multithreading synchronization project  
+
+### 🖥 **Shell & System Programming**
+- 🐚 **[Minishell](https://github.com/ai-dg/minishell)** → Unix shell in C with advanced features  
 
 ### 🌐 **Networking & Web Development**
 - 🌍 **[Webserv](https://github.com/ai-dg/webserv)** → HTTP server in C++  
 - 🎮 **[so_long](https://github.com/ai-dg/so_long)** → 2D game using MiniLibX  
-- 🔀 **[pipex](https://github.com/ai-dg/pipex)** → Pipe and redirection handling in UNIX  
+- 🕹 **[cub3D](https://github.com/ai-dg/cub3d)** → 3D raycasting engine inspired by Wolfenstein  
+
+### 🚀 **C++ Object-Oriented Programming**
+- 🎯 **[C++ Modules](https://github.com/ai-dg/cpp_modules)** → Advanced Object-Oriented Programming in C++98  
 
 ### ⚡ **Full-Stack & AI**
 - 🏗 **[ft_transcendence](https://github.com/ai-dg/ft_transcendence)** → Full-stack web app with WebSockets  
 
 ---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-dg&show_icons=true&theme=radical&hide=issues&count_private=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-dg&theme=radical" width="49%">
+</p>
 
 ### 🔥 **Most Used Languages**
 <p align="center">
@@ -41,6 +56,7 @@
 ✉️ **diegoagudeloa@gmail.com**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ai-dg&color=blue)
+
 
 
 <!--
