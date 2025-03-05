@@ -39,7 +39,6 @@ Passionate about **C/C++**, **Python**, and **DevOps** (Docker, Linux, SQL)
 
 ## ▌GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-dg&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-dg&theme=tokyonight" width="49%">
 </div>
 
