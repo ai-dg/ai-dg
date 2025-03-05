@@ -19,6 +19,8 @@
 
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/diego-agudelo-35a378130/) | diegoagudeloa@gmail.com  
 
+![Profile Views](https://komarev.com/ghpvc/?username=ai-dg&color=blue)
+
 
 <!--
 **ai-dg/ai-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
