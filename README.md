@@ -1,6 +1,6 @@
 # Diego Agudelo  
 **AI & Backend Developer | Software Engineer in Training at 42 Paris**  
-Passionate about **C/C++**, **Python**, **Machine learning** and **DevOps** (Docker, Linux, SQL)  
+Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
 
 ---
 
@@ -13,6 +13,15 @@ Passionate about **C/C++**, **Python**, **Machine learning** and **DevOps** (Doc
 ---
 
 ## ▌Projects  
+
+### ■ **Computer Science & Python**
+▸ [**CS50x - Harvard's Intro to Computer Science**](https://github.com/ai-dg/cs50x)  
+✔ Completed all problem sets & final project  
+✔ Built **MyRecipes**, a web app in **Flask** to create & share recipes  
+
+▸ [**CS50P - Harvard's Intro to Programming with Python**](https://github.com/ai-dg/cs50p)  
+✔ Completed all problem sets for hands-on Python training  
+❌ Final project & certification not yet completed  
 
 ### ■ **System & Low-Level Programming**
 ▸ [**Libft**](https://github.com/ai-dg/libft) — Custom C standard library  
@@ -54,7 +63,6 @@ Passionate about **C/C++**, **Python**, **Machine learning** and **DevOps** (Doc
 ▸ ✉ diegoagudeloa@gmail.com  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ai-dg&color=blue)
-
 
 
 <!--
