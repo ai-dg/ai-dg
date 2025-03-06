@@ -8,7 +8,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ▸ **Systems & Backend**: C, C++, Python  
 ▸ **DevOps & Infrastructure**: Docker, Linux, CI/CD, Bash  
 ▸ **Web Development**: Flask, Django, JavaScript  
-▸ **AI & Algorithms**: Machine Learning, Data Structures  
+▸ **AI & Algorithms**: Data Structures  
 
 ---
 
