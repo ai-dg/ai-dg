@@ -1,5 +1,5 @@
 # Diego Agudelo  
-**AI & Backend Developer | Software Engineer in Training at 42 Paris**  
+**AI & Backend Developer (In Training) | Software Engineer in Training at 42 Paris**  
 Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
 
 ---
