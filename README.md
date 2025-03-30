@@ -44,14 +44,13 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ### ■ **Full-Stack & AI**
 ▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development)    
 ▸ [**ft_linear_regression**](https://github.com/ai-dg/ft_linear_regression) — An introduction to machine learning through linear regression    
-▸ [**DSLR**](https://github.com/ai-dg/ft_linear_regression) — DataScience x Logistic Regression, machine learning by different tools ***(on-going project)***
+▸ [**DSLR**](https://github.com/ai-dg/dslr) — DataScience x Logistic Regression, machine learning by different tools ***(on-going project)***
 
 
 ### ■ **Algorithms**
 ▸ [**Algorithms-practice**](https://github.com/ai-dg/algorithms-practice) — Solutions to algorithmic challenges (LeetCode, and custom problems). Includes data structure exercises in Python, C, and C++ with a focus on clarity, performance, and interview preparation.
 
 
-https://github.com/ai-dg/dslr/tree/main
 ---
 
 ### ▌Most Used Languages
