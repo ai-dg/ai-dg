@@ -44,6 +44,9 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ### ■ **Full-Stack & AI**
 ▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development) 
 
+### ■ **Algorithms**
+▸ [**Algorithms-practice**](https://github.com/ai-dg/algorithms-practice) — Solutions to algorithmic challenges (LeetCode, and custom problems). Includes data structure exercises in Python, C, and C++ with a focus on clarity, performance, and interview preparation.
+
 ---
 
 ### ▌Most Used Languages
