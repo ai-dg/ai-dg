@@ -43,6 +43,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 
 ### ■ **Full-Stack & AI**
 ▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development) 
+
 ▸ [**ft_linear_regression**](https://github.com/ai-dg/ft_linear_regression) — An introduction to machine learning through linear regression
 
 
