@@ -42,8 +42,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ▸ [**C++ Modules**](https://github.com/ai-dg/cpp_modules) — Advanced Object-Oriented Programming in C++98  
 
 ### ■ **Full-Stack & AI**
-▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development) 
-
+▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development)    
 ▸ [**ft_linear_regression**](https://github.com/ai-dg/ft_linear_regression) — An introduction to machine learning through linear regression
 
 
