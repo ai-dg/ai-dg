@@ -1,5 +1,5 @@
 # Diego Agudelo  
-**AI & Backend Developer (In Training) | Software Engineer in Training at 42 Paris**  
+**Backend & Data Engineer (in training at 42 Paris) | Machine Learning Foundations**  
 Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
 
 ---
@@ -42,7 +42,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ▸ [**C++ Modules**](https://github.com/ai-dg/cpp_modules) — Advanced Object-Oriented Programming in C++98  
 
 ### ■ **Full-Stack & AI**
-▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets (🚧 in development)    
+▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets, Django 
 ▸ [**ft_linear_regression**](https://github.com/ai-dg/ft_linear_regression) — An introduction to machine learning through linear regression    
 ▸ [**DSLR**](https://github.com/ai-dg/dslr) — DataScience x Logistic Regression, machine learning by different tools   
 ▸ [**multilayer-perceptron**](https://github.com/ai-dg/multilayer-perceptron) — Machine Learning project, an introduction to artificial neural networks, with the implementation of a multilayer perceptron. ***(on-going project)***
