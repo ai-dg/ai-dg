@@ -60,11 +60,12 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ### ▌Most Used Languages
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dg&layout=compact&langs_count=10&hide_progress=true&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ai-dg&layout=compact&langs_count=10&theme=tokyonight"
     alt="Top Langs"
     width="49%"
   />
 </div>
+
 
 
 ---
