@@ -1,5 +1,5 @@
 # Diego Agudelo  
-**Backend & Data Engineer (in training at 42 Paris) | Machine Learning Foundations**  
+**Machine Learning & Data Scientist Intern | Python | Data Analysis**  
 Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
 
 ---
