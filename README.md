@@ -1,14 +1,14 @@
 # Diego Agudelo  
 **Machine Learning Engineer | Data Scientist (Open to Internship / Full-time)**  
-Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
+Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL).
 
 ---
 
 ## ▌Skills & Technologies
-▸ **Systems & Backend**: C, C++, Python  
+▸ **Programming & Systems**: C, C++, Python  
+▸ **Machine Learning & Data**: scikit-learn, TensorFlow, pandas, NumPy, linear models, neural networks  
+▸ **Backend & APIs**: Flask, Django  
 ▸ **DevOps & Infrastructure**: Docker, Linux, CI/CD, Bash  
-▸ **Web Development**: Flask, Django, JavaScript  
-▸ **AI & Algorithms**: Data Structures  
 
 ---
 
