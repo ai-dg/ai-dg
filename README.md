@@ -44,7 +44,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ### ■ **Full-Stack & AI**
 ▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) — Full-stack web app with WebSockets, Django  
 ▸ [**ft_linear_regression**](https://github.com/ai-dg/ft_linear_regression) — An introduction to machine learning through linear regression  
-▸ [**DSLR**](https://github.com/ai-dg/dslr) — DataScience x Logistic Regression, machine learning by different tools ***(project completed — 42 validation in progress)***  
+▸ [**DSLR**](https://github.com/ai-dg/dslr) — DataScience x Logistic Regression, machine learning by different tools  
 ▸ [**total-perspective-vortex**](https://github.com/ai-dg/total-perspective-vortex) — — EEG data pipeline: signal preprocessing, CSP feature extraction and logistic regression classification (Motor Imagery). End-to-end BCI workflow.  
 ▸ [**Learn2Slither**](https://github.com/ai-dg/Learn2Slither) — Reinforcement Learning exploration: grid-world agent for a Snake-like game (ε-greedy policies, reward shaping, value updates). Experimental RL sandbox.  
 ▸ [**Inception-of-Things**](https://github.com/ai-dg/Inception-of-Things) — DevOps & virtualization lab: multi-VM environment using Vagrant, Docker, Kubernetes (K3s/K3d), system provisioning, CI/CD fundamentals.  
