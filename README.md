@@ -1,5 +1,5 @@
 # Diego Agudelo  
-**Machine Learning & Data Scientist Intern | Python | Data Analysis**  
+**Machine Learning Engineer | Data Scientist (Open to Internship / Full-time)**  
 Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Docker, Linux, SQL)  
 
 ---
