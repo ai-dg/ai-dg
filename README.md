@@ -49,8 +49,8 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ▸ [**Learn2Slither**](https://github.com/ai-dg/Learn2Slither) - Reinforcement Learning exploration: grid-world agent for a Snake-like game (ε-greedy policies, reward shaping, value updates). Experimental RL sandbox.  
 ▸ [**Inception-of-Things**](https://github.com/ai-dg/Inception-of-Things) - DevOps & virtualization lab: multi-VM environment using Vagrant, Docker, Kubernetes (K3s/K3d), system provisioning, CI/CD fundamentals.  
 ▸ [**multilayer-perceptron**](https://github.com/ai-dg/multilayer-perceptron) - Machine Learning project, an introduction to artificial neural networks, with the implementation of a multilayer perceptron.  
-▸ [**Leaffliction**](https://github.com/ai-dg/Leaffliction) - Computer vision project for plant leaf disease classification: dataset analysis, data augmentation, image transformations, and supervised image classification. ***(on-going project)***  
-▸ [**Matrix**](https://github.com/ai-dg/matrix)) - Computer vision project for plant leaf disease classification: dataset analysis, data augmentation, image transformations, and supervised image classification.  ***(on-going project)***  
+▸ [**Leaffliction**](https://github.com/ai-dg/Leaffliction) - Computer vision project for plant leaf disease classification: dataset analysis, data augmentation, image transformations, and supervised image classification. ***(ongoing project)***  
+▸ [**Matrix**](https://github.com/ai-dg/matrix)) - Computer vision project for plant leaf disease classification: dataset analysis, data augmentation, image transformations, and supervised image classification.  ***(ongoing project)***  
 
 
 
