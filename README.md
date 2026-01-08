@@ -46,7 +46,7 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 ▸ [**C++ Modules**](https://github.com/ai-dg/cpp_modules) — Advanced Object-Oriented Programming in C++98  
 
 ### ■ **Full-Stack**
-▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) - Full-stack web app with WebSockets, Django 
+▸ [**ft_transcendence**](https://github.com/ai-dg/ft_transcendence) - Full-stack web app with WebSockets, Django   
 ▸ [**Trascendance_V2**](https://github.com/ai-dg/Trascendance_V2) - ft_transcendence (team project): cross-functional contributions (backend, frontend, Docker Compose) + major focus on ELK log management (Elasticsearch, Logstash, Kibana).
 
 ### ■ **Machine Learning / Data Science**
