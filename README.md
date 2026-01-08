@@ -16,7 +16,8 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 
 ---
 
-## ▌Projects  
+## ▌Academic & Personal Projects (42 Paris)
+
 
 ### ■ **Computer Science & Python**
 ▸ [**CS50x - Harvard's Intro to Computer Science**](https://github.com/ai-dg/cs50x)  
