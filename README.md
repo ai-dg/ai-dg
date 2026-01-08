@@ -6,9 +6,13 @@ Passionate about **C/C++**, **Python**, **Machine Learning**, and **DevOps** (Do
 
 ## ▌Skills & Technologies
 ▸ **Programming & Systems**: C, C++, Python  
-▸ **Machine Learning & Data**: scikit-learn, TensorFlow, pandas, NumPy, linear models, neural networks  
-▸ **Backend & APIs**: Flask, Django  
-▸ **DevOps & Infrastructure**: Docker, Linux, CI/CD, Bash  
+▸ **Machine Learning & Data**: scikit-learn, TensorFlow, pandas, NumPy, classical ML (linear/logistic regression), neural networks (MLP), model evaluation, metrics  
+▸ **Deep Learning & Computer Vision**: CNN fundamentals, image preprocessing, data augmentation, feature extraction, supervised image classification  
+▸ **NLP & Representation Learning**: text preprocessing, embeddings, semantic search concepts, RAG pipelines (foundations)  
+▸ **Reinforcement Learning**: value-based methods, ε-greedy policies, reward shaping, environment modeling  
+▸ **Backend & APIs**: Flask, Django, REST APIs  
+▸ **DevOps, Cloud & Infrastructure**: Docker, Linux, Bash, CI/CD, Ansible, containerized deployments, cloud environments (IaaS/PaaS fundamentals)
+
 
 ---
 
