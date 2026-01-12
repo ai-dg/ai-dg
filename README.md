@@ -6,7 +6,7 @@ I build end-to-end machine learning projects with a focus on **data quality**, *
 Background in civil engineering, currently transitioning into AI/ML through hands-on projects and applied research.
 
 🌍 **Portfolio**  
-https://diego-agudelo.netlify.app/
+https://dagudelo.dev/
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/diego-agudelo-ai/
